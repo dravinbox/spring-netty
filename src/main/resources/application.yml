@@ -1,0 +1,10 @@
+server:
+  port: 8080
+
+
+netty:
+  port: 7000
+  boosThread: 1
+  workThread: 4
+  keepalive: true
+  backlog: 128
